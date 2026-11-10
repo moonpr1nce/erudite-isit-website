@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -48 488 190" role="img" aria-label="Erudite — сила в знаниях">
+  <g fill="#13263D" fill-rule="evenodd">
+    <path d="M0 0H64V22H24V39H58V61H24V78H64V100H0Z"/>
+    <path d="M74 0H113C133 0 144 13 144 31C144 45 137 55 125 59L146 100H120L101 62H98V100H74ZM98 21V42H112C118 42 121 38 121 31.5C121 25 118 21 112 21Z"/>
+    <path d="M154 0H178V62C178 74 183 79 189 79C195 79 200 74 200 62V0H224V62C224 87 210 100 189 100C168 100 154 87 154 62Z"/>
+    <path d="M234 0H264C290 0 306 19 306 50C306 81 290 100 264 100H234ZM258 22V78H263C276 78 282 68 282 50C282 32 276 22 263 22Z"/>
+    <path d="M316 0H340V100H316Z"/>
+    <path d="M350 0H414V22H394V100H370V22H350Z"/>
+    <path d="M424 0H488V22H448V39H482V61H448V78H488V100H424Z"/>
+  </g>
+  <g fill="#0068B4">
+    <path d="M139 -22L189 -46L239 -22L189 2Z"/>
+    <path d="M166 -12V-3C179 5 199 5 212 -3V-12L189 -1Z"/>
+  </g>
+  <path d="M189 -22L229 -12V5" fill="none" stroke="#5FA8E0" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="229" cy="8" r="4.5" fill="#5FA8E0"/>
+  <text x="488" y="134" text-anchor="end" fill="#0068B4" font-family="Golos Text, Arial, sans-serif" font-weight="600" font-size="28" letter-spacing="0.5">сила в знаниях</text>
+</svg>
